@@ -36,3 +36,29 @@ Demonstration Steps
          { customerId: "1" }
 30. Close all windows.
 
+
+![20487_images](https://github.com/ialcaidef/Using-Microsoft-Azure-Cosmos-DB-with-the-MongoDB-API/blob/main/img/CreadoCosmoDB.PNG)
+
+
+![20487_images](https://github.com/ialcaidef/Using-Microsoft-Azure-Cosmos-DB-with-the-MongoDB-API/blob/main/img/contenedores.PNG)
+
+
+  ![20487_images](https://github.com/ialcaidef/Using-Microsoft-Azure-Cosmos-DB-with-the-MongoDB-API/blob/main/img/sacarshell.PNG)
+
+
+  ![20487_images](https://github.com/ialcaidef/Using-Microsoft-Azure-Cosmos-DB-with-the-MongoDB-API/blob/main/img/sacarshell2.PNG)
+
+
+  ![20487_images](https://github.com/ialcaidef/Using-Microsoft-Azure-Cosmos-DB-with-the-MongoDB-API/blob/main/img/sacarshell4.PNG)
+
+
+![20487_images](https://github.com/ialcaidef/Using-Microsoft-Azure-Cosmos-DB-with-the-MongoDB-API/blob/main/img/sacarquery.PNG)
+
+
+![20487_images](https://github.com/ialcaidef/Using-Microsoft-Azure-Cosmos-DB-with-the-MongoDB-API/blob/main/img/sacarquery1.PNG)
+
+
+![20487_images](https://github.com/ialcaidef/Using-Microsoft-Azure-Cosmos-DB-with-the-MongoDB-API/blob/main/img/sacarquery2.PNG)
+
+
+![20487_images](https://github.com/ialcaidef/Using-Microsoft-Azure-Cosmos-DB-with-the-MongoDB-API/blob/main/img/sacarquery3.PNG)
